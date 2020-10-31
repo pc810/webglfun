@@ -10,8 +10,8 @@
     "main.css": "/webglfun/static/css/main.b036eaea.chunk.css",
     "main.js": "/webglfun/static/js/main.20cdc167.chunk.js",
     "main.js.map": "/webglfun/static/js/main.20cdc167.chunk.js.map",
-    "runtime-main.js": "/webglfun/static/js/runtime-main.f8bf1f5d.js",
-    "runtime-main.js.map": "/webglfun/static/js/runtime-main.f8bf1f5d.js.map",
+    "runtime-main.js": "/webglfun/static/js/runtime-main.0b1bb5d8.js",
+    "runtime-main.js.map": "/webglfun/static/js/runtime-main.0b1bb5d8.js.map",
     "static/js/5.8a3f921a.chunk.js": "/webglfun/static/js/5.8a3f921a.chunk.js",
     "static/js/5.8a3f921a.chunk.js.map": "/webglfun/static/js/5.8a3f921a.chunk.js.map",
     "static/js/6.ca3828e8.chunk.js": "/webglfun/static/js/6.ca3828e8.chunk.js",
@@ -22,8 +22,8 @@
     "static/js/8.24d2b133.chunk.js.map": "/webglfun/static/js/8.24d2b133.chunk.js.map",
     "static/js/9.62ccf4f5.chunk.js": "/webglfun/static/js/9.62ccf4f5.chunk.js",
     "static/js/9.62ccf4f5.chunk.js.map": "/webglfun/static/js/9.62ccf4f5.chunk.js.map",
-    "static/js/10.3c43b468.chunk.js": "/webglfun/static/js/10.3c43b468.chunk.js",
-    "static/js/10.3c43b468.chunk.js.map": "/webglfun/static/js/10.3c43b468.chunk.js.map",
+    "static/js/10.f2dd3485.chunk.js": "/webglfun/static/js/10.f2dd3485.chunk.js",
+    "static/js/10.f2dd3485.chunk.js.map": "/webglfun/static/js/10.f2dd3485.chunk.js.map",
     "static/js/11.63af73d6.chunk.js": "/webglfun/static/js/11.63af73d6.chunk.js",
     "static/js/11.63af73d6.chunk.js.map": "/webglfun/static/js/11.63af73d6.chunk.js.map",
     "index.html": "/webglfun/index.html",
@@ -37,7 +37,7 @@
     "static/media/RainbowWaves.a4bcb397.png": "/webglfun/static/media/RainbowWaves.a4bcb397.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8bf1f5d.js",
+    "static/js/runtime-main.0b1bb5d8.js",
     "static/js/5.8a3f921a.chunk.js",
     "static/css/main.b036eaea.chunk.css",
     "static/js/main.20cdc167.chunk.js"
